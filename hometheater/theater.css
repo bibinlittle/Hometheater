@@ -8,6 +8,9 @@ body
     background: black;
     transition: background 200ms;
 }
+h1{
+    color: white;
+}
 
 h5{
     font-weight: 200;
